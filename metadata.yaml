@@ -1,0 +1,31 @@
+_repo: The-mystery-of-the-blue-train_72824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: https://en.wikipedia.org/wiki/Agatha_Christie
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72824'
+language: en
+pgterms:marc905: 20230117132822christie
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bPocket Books, Inc., $c1928, pubdate 1940, pubdate
+  1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The mystery of the blue train
+url: http://www.gutenberg.org/ebooks/72824
