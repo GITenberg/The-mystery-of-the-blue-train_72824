@@ -1,5 +1,8 @@
 _repo: The-mystery-of-the-blue-train_72824
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72824-h/images/cover.jpg
 creator:
   author:
     agent_name: Christie, Agatha
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/451
     wikipedia: https://en.wikipedia.org/wiki/Agatha_Christie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72824#The-mystery-of-the-blue-train
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
